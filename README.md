@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @NetDaDev
-- 🎈 I’m interested in developing .io game scripts
-- 📫 How to reach me: netgrabberbxt@gmail or my discord net1872
+
